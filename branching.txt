@@ -1,0 +1,21 @@
+BRANCHING -> working on different part of the repository in the same time
+
+- git branch
+- git checkout
+- git merge
+
+-> each of branches have its name
+
+
+-> default branch name is master
+-> we might have "feature" branch if we work on some feature
+
+At any given time we focus on one of two or more branches
+
+HEAD - where are we currently, our branch status
+if head is pointing on master that means we are working on master branch
+
+we can work on different branches by switching where our HEAD is 
+
+when we are satisfied with both branches, we can MERGE them back together
+anything comes back to our unified master branch
