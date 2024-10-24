@@ -1,0 +1,48 @@
+[33mcommit 20c9ec1bf330d61751164ba97a9675b36da64d11[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 6f53a69 6f0d00a
+Author: j3rk0vic <ijerkovic13@gmail.com>
+Date:   Fri Oct 25 00:16:51 2024 +0200
+
+    Fix merge conflict
+
+[33mcommit 6f0d00a6b92eb9834ff644f76ea53cb17bc459cc[m
+Author: Ivan Jerkovic <88447239+j3rk0vic@users.noreply.github.com>
+Date:   Fri Oct 25 00:13:56 2024 +0200
+
+    Add style
+
+[33mcommit 6f53a69311d7ce02dbad556bb786f19c1c655118[m
+Author: j3rk0vic <ijerkovic13@gmail.com>
+Date:   Fri Oct 25 00:13:00 2024 +0200
+
+    Add exclamation point
+
+[33mcommit bab4e3642d4289335e440c11ae18a2afdfea91c2[m
+Author: Ivan Jerkovic <88447239+j3rk0vic@users.noreply.github.com>
+Date:   Fri Oct 25 00:07:43 2024 +0200
+
+    Update file.html
+
+[33mcommit a1420ec3b9ab9664ab81475503f4159a71d85248[m
+Author: j3rk0vic <ijerkovic13@gmail.com>
+Date:   Thu Oct 24 00:26:18 2024 +0200
+
+    Dodajen neki random txt file
+
+[33mcommit 524651b161b694004af95878bfb0d1a24a11eec3[m
+Author: j3rk0vic <ijerkovic13@gmail.com>
+Date:   Thu Oct 24 00:23:40 2024 +0200
+
+    Prvi put znam za sta sluzi add u githubu :)
+
+[33mcommit 2b05b6da4de5ccd40280c8017789e37dfaf8747e[m
+Author: j3rk0vic <ijerkovic13@gmail.com>
+Date:   Thu Oct 24 00:21:50 2024 +0200
+
+    My second commit
+
+[33mcommit d57534ddcd5e25691df55ee7523ce5b5670da7a8[m
+Author: j3rk0vic <ijerkovic13@gmail.com>
+Date:   Thu Oct 24 00:16:26 2024 +0200
+
+    My first commit
